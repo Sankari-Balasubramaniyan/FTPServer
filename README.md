@@ -1,6 +1,5 @@
-# **SR1 PROJECT 2**
 # **FTP SERVER**
-##### _**SUBMITTED BY**_ - **Sankari Balasubramaniyan, Chia-Ling Bragagnolo, Diallo Elhadj-Abdoulaye on 14th February 2022**
+##### _**SUBMITTED BY**_ - **Sankari Balasubramaniyan**
 
 ## **OBJECTIVE**
 
